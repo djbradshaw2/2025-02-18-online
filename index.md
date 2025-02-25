@@ -306,8 +306,15 @@ Everyone who participates in Carpentries activities is required to conform to th
   </a>
 </p>
 <hr/>
+{% comment%}
+ZOOM LINK
+{% endcomment %}
+<h2 id="code-of-conduct">Zoom Link</h2>
 
-
+<p>
+Please use the following <a href="https://www.zoomgov.com/j/1611894645">Zoom Link</a> to join the workshop on both days.
+</p>
+<hr/>
 {% comment %}
 Collaborative Notes
 
